@@ -1,5 +1,9 @@
 #node-web-phone
 
+<div> 
+<b>This application is outdated, but will be updated soon!</b><br><br>
+</div>
+
 NodeJS backend for web-based phone application.
 
 Demos uses of the:
