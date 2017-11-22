@@ -1,10 +1,19 @@
-#node-web-phone
+<div align="center">
+
+# Badwidth Node Web Phone
+  
+<a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW_Voice.png"/></a>
 
 <div> 
 <b>This application is outdated, but will be updated soon!</b><br><br>
 </div>
 
+</div>
+
 NodeJS backend for web-based phone application.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 Demos uses of the:
 * [Catapult Node SDK](https://github.com/bandwidthcom/node-bandwidth)
